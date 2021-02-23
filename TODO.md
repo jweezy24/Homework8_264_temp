@@ -8,8 +8,10 @@ That string will then be printed to the terminal in all upper case.
 
 Let's say we have a string in our assembly code that contains the value "HELLO".
 Upon running our code the terminal should output "hello".
+Below is a example of how your code should work and look upon completion.
 
 ```
+> make
 > ./output_file
 hello
 ```
